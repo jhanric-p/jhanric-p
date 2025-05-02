@@ -33,10 +33,10 @@ README inspired by @daria-stanilevici :))
 ### 🎧 Connect with Me
 
 <div align="left">
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/jhanricp/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/YOUR_USERNAME" target="_blank">
+  <a href="https://open.spotify.com/user/31u4gn2tafxrizo67brnc27nogfy" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
