@@ -1,15 +1,12 @@
 <!--
-    Hey there, I'm Jhanric Pablo!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
+  
     
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+README inspired by @daria-stanilevici :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img src="./assets/headerjp.jpg" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=00F7F1&width=435&lines=Hi%2C+I'm+Jhanric+;I+write+code%2C+squash+bugs%2C+and+;occasionally+talk+to+my+rubber+duck.+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=F70000&width=435&lines=Hi%2C+I'm+Jhanric+;I+write+code%2C+squash+bugs%2C+and+;occasionally+talk+to+my+rubber+duck.+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" /></a>
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
