@@ -9,14 +9,14 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F1&width=435&lines=Hi%2C+I'm+Jhanric+;I+write+code%2C+squash+bugs%2C+and+occasionally+talk+to+my+rubber+duck.+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=00F7F1&width=435&lines=Hi%2C+I'm+Jhanric+;I+write+code%2C+squash+bugs%2C+and+;occasionally+talk+to+my+rubber+duck.+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" /></a>
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/jhanric-info.gif" alt="jhanric-info.gif"/>
 </div>
 
 <!--
