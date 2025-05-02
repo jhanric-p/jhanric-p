@@ -3,12 +3,7 @@
 README inspired by @daria-stanilevici :))
 
 -->
-
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=F70000&width=500&lines=I+got+a+list+of+names+and+;yours+is+in+red%2C+✨UNDERLINED✨." alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=F70000&width=435&lines=I+got+a+list+of+names+and+;yours+is+in+red%2C+underlined." alt="Typing SVG" /></a>
 
 
 <div>
