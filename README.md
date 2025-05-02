@@ -1,48 +1,48 @@
 <!--
-  
+
 README inspired by @daria-stanilevici :))
+
 -->
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=F70000&width=435&lines=Hi%2C+I'm+Jhanric+;I+write+code%2C+squash+bugs%2C+and+;occasionally+talk+to+my+rubber+duck.+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" /></a>
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=FF0000&center=true&width=435&lines=Hi%2C+I'm+Jhanric+;I+write+code%2C+squash+bugs%2C+and+;occasionally+talk+to+my+rubber+duck.+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" />
+</a>
 
 <div>
-    <img src="./assets/jhanric-info.gif" alt="jhanric-info.gif"/>
+  <img src="./assets/jhanric-info.gif" alt="jhanric-info.gif"/>
 </div>
 
-<!--
-     My mission, because I'm a superhero!
--->
+---
 
-### about me
+### 🔥 About Me
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
+ a passionate developer who loves clean builds, clever bugs (to squash), and catchy beats from Spotify. Let’s turn caffeine and code into cool things. 😎
 
-### Main skills
+---
+
+### 🚀 Main Skills
+
 [![My Skills](https://skillicons.dev/icons?i=py,cs,c,eclipse,figma,godot,html,java,js,mysql,php)](https://skillicons.dev)
 
-### Studying
+---
+
+### 📚 Currently Studying
+
 [![Learning](https://skillicons.dev/icons?i=cpp,nodejs,r,azure,ruby)](https://skillicons.dev)
 
+---
 
-<!--
-     Fast links to my socials!
--->
+### 🎧 Connect with Me
 
-### Connect with me!
-<div>
-    
+<div align="left">
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </div>
 
-<!--
-     Oh, hello there, recruiters!
--->
-
-
+---
