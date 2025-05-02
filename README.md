@@ -7,8 +7,9 @@ README inspired by @daria-stanilevici :))
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=FF0000&center=true&width=435&lines=Hi%2C+I'm+Jhanric+;I+write+code%2C+squash+bugs%2C+and+;occasionally+talk+to+my+rubber+duck.+Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=F70000&width=500&lines=I+got+a+list+of+names+and+;yours+is+in+red%2C+✨UNDERLINED✨." alt="Typing SVG" />
 </a>
+
 
 <div>
   <img src="./assets/jhanric-info.gif" alt="jhanric-info.gif"/>
