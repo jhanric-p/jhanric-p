@@ -12,25 +12,25 @@ README inspired by @daria-stanilevici :))
 
 ---
 
-### 🔥 About Me
+### About Me
 
- a passionate developer who loves clean builds, clever bugs (to squash), and catchy beats from Spotify. Let’s turn caffeine and code into cool things. 😎
+ copy pasting hehe, i love taylor swift!
 
 ---
 
-### 🚀 Main Skills
+### Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,c,eclipse,figma,godot,html,java,js,mysql,php)](https://skillicons.dev)
 
 ---
 
-### 📚 Currently Studying
+###Currently Studying
 
 [![Learning](https://skillicons.dev/icons?i=cpp,nodejs,r,azure,ruby)](https://skillicons.dev)
 
 ---
 
-### 🎧 Connect with Me
+### Socials
 
 <div align="left">
   <a href="https://www.instagram.com/jhanricp/" target="_blank">
