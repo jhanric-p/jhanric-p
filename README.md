@@ -20,13 +20,13 @@ README inspired by @daria-stanilevici :))
 
 ### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,c,eclipse,figma,godot,html,java,js,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,c,eclipse,html,java,js,mysql,php)](https://skillicons.dev)
 
 ---
 
 ###Currently Studying
 
-[![Learning](https://skillicons.dev/icons?i=cpp,nodejs,r,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,nodejs,r,azure,ruby,figma)](https://skillicons.dev)
 
 ---
 
